@@ -6,7 +6,7 @@
 |**Doc. Status**|<span style="color:Blue">**IN PROGRESS**</span>|
 |**Version**|1.0.0|
 
-![](/docs/kisspng-marketing-business-advertising-web-development-man-la-verne-5b3dbc2ad99fd6.9012508015307725228914.jpg)
+![](/docs/title.jpg)
 			 
 ## **Оглавлние:**
 
