@@ -6,7 +6,7 @@
 |**Doc. Status**|<span style="color:Blue">**IN PROGRESS**</span>|
 |**Version**|1.0.0|
 
-![]()
+![](/docs/title.png)
 			 
 ## **Оглавлние:**
 
